@@ -4,7 +4,6 @@ A live, multi-room chat app built around WebSockets — join a room for a
 specific match, chat in real time with everyone else watching, see who's
 online, react to messages, and pick up right where you left off on refresh.
 
-**Live demo:** _add your Render URL here once deployed_
 
 ## What this project covers
 
